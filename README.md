@@ -11,3 +11,5 @@ My name is Pascal. People tend to call me Pasi. This somehow formed my internet 
 🔭 I’m currently working on ...<br><br>
 
 🌱 I’m currently learning ...<br><br>
+- Rust and Elm - trying another approach of modern desktop apps without Electron
+- C++ 
