@@ -9,7 +9,9 @@ My name is Pascal. People tend to call me Pasi. This somehow formed my internet 
 👦 our wizard son , Oskar ! <br><br>
 
 🔭 I’m currently working on ...<br><br>
+- Management App for AWS Elemental Encoder
+- Broadcast / Stream - Live Graphics
 
 🌱 I’m currently learning ...<br><br>
 - Rust and Elm - trying another approach of modern desktop apps without Electron
-- C++ 
+- C++ along with Unreal Engine
