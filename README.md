@@ -14,4 +14,4 @@ My name is Pascal. People tend to call me Pasi. This somehow formed my internet 
 - Broadcast / Stream - Live Graphics<br><br>
 
 🌱 I’m currently learning ...<br>
-- Tauri - trying another approach of modern desktop apps without Electron
+- Tauri - Rust - trying another approach of modern desktop apps as alternative for Electron
