@@ -1,14 +1,10 @@
 Hej 👋
 
-My name is Pascal. People tend to call me Pasi. This somehow formed my internet alias 😂 "turbopasi".<br><br>
-
 ❤ Things I love ... <br>
 - 💻 coding
 - 📷 taking pictures
-- 🎨 drawin
+- 🎨 drawing 
 - 🐈 our cat Brutus
-- 👦 our wizard son , Oskar ! <br><br>
-
 
 🔭 I’m currently working on ...<br>
 - Broadcast / Stream - Live Graphics<br><br>
